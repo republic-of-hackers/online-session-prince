@@ -1,0 +1,11 @@
+Procedures -
+1) analyse input in program.
+2) analyse output in program.
+3) analyse logic in program.
+
+Basic Formula - 
+- simple interest
+- compound interest
+- mensuration
+- some special formula or logics
+
