@@ -9,3 +9,35 @@ Basic Formula -
 - mensuration
 - some special formula or logics
 
+Branching 
+    - IF, ELIF, ELSE Statement
+	- Loop -> For, While
+
+Loops -
+	- For Loop
+	- While Loop
+	
+Operator -
+	Arithematic Operators
+	+ Addition
+	- Substraction
+	* Multiplication
+	/ Float Division
+	// Integer Division
+	% Modulus (gives remainder)
+	** Exponent
+	
+	Logical Operators
+	and
+	or
+	not
+	
+	Assignment Operators
+	=
+	+=
+	-=
+	*=
+	/=
+	//=
+	
+	
