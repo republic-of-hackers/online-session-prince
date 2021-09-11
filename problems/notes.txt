@@ -26,6 +26,14 @@ Operator -
 	// Integer Division
 	% Modulus (gives remainder)
 	** Exponent
+
+	Relational Operators
+	== Equal
+	< Less then
+	> greather then
+	<= Less then and Equal
+	>= greather then and Equal
+	!= Not Equal
 	
 	Logical Operators
 	and

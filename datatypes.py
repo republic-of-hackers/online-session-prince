@@ -89,7 +89,7 @@ print(phone_book["Sharma"])
 print(phone_book["Prince"])
 
 # Exclusive
-# default - SET
+# default - DICT
 t = {}
 
 # constructor
