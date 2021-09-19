@@ -8,14 +8,6 @@ Basic Formula -
 - compound interest
 - mensuration
 - some special formula or logics
-
-Branching 
-    - IF, ELIF, ELSE Statement
-	- Loop -> For, While
-
-Loops -
-	- For Loop
-	- While Loop
 	
 Operator -
 	Arithematic Operators
@@ -47,5 +39,19 @@ Operator -
 	*=
 	/=
 	//=
-	
+
+	identity operators
+	is
+	is not
+
+	membership operators
+	in
+	not in
+
+Branching:
+	1. Conditional Statements:
+		- IF, ELIF, ELSE Statement
+
+	2. Iterative Statements
+		- For, While Loop
 	
